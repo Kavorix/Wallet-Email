@@ -1,16 +1,6 @@
 {
-  "name": "magic-wallet",
-  "author": "@GalloDaSballo",
-  "contributors": [
-    {
-      "name": "Nik Vogrinec",
-      "github": "https://github.com/NikVogri"
-    },
-    {
-      "name": "@erikdstock",
-      "github": "https://github.com/erikdstock"
-    }
-  ],
+  "name": "eamil-wallet",
+  "author": "kavorix",
   "license": "MIT",
   "version": "0.9.0",
   "scripts": {
